@@ -1,0 +1,9 @@
+[submodule "__submodules/direct-bpl-loader"]
+	path = __submodules/direct-bpl-loader
+	url = git@github.com:Convey-Compliance/direct-bpl-loader.git
+[submodule "__submodules/jcl"]
+	path = __submodules/jcl
+	url = git@github.com:Convey-Compliance/jcl.git
+[submodule "__submodules/jedi"]
+	path = __submodules/jedi
+	url = git@github.com:Convey-Compliance/jedi.git
