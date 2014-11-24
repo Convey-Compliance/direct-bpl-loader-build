@@ -4,6 +4,3 @@
 [submodule "__submodules/jcl"]
 	path = __submodules/jcl
 	url = git@github.com:Convey-Compliance/jcl.git
-[submodule "__submodules/jedi"]
-	path = __submodules/jedi
-	url = git@github.com:Convey-Compliance/jedi.git
