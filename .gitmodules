@@ -4,3 +4,9 @@
 [submodule "__submodules/jcl"]
 	path = __submodules/jcl
 	url = git@github.com:Convey-Compliance/jcl.git
+[submodule "__submodules/convey-public-libs"]
+	path = __submodules/convey-public-libs
+	url = https://github.com/Convey-Compliance/convey-public-libs.git
+[submodule "__submodules/convey-private-libs"]
+	path = __submodules/convey-private-libs
+	url = https://github.com/Convey-Compliance/convey-private-libs.git
